@@ -1,0 +1,1 @@
+{"name":"Local: needZero","url":"/Users/rg77632/TLE/CP-31/800/needZero.cpp","tests":[{"id":1771945191350,"input":"5\n3\n1 2 5\n3\n1 2 3\n4\n0 1 2 3\n4\n1 2 2 3\n1\n1\n","output":"6\n0\n3\n-1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rg77632/TLE/CP-31/800/needZero.cpp","group":"local","local":true}

@@ -1,0 +1,5 @@
+{
+    "cph.general.defaultLanguage": "cpp",
+    "cph.language.cpp.Args": "-std=c++17 -O2 -Wall -I/Users/rg77632/include",
+    "cph.language.cpp.Command": "g++"
+}

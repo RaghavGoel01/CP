@@ -1,0 +1,1 @@
+{"name":"Local: integerGame","url":"/Users/rg77632/TLE/CP-31/800/integerGame.cpp","tests":[{"id":1771863644108,"input":"6\n1\n3\n5\n100\n999\n1000\n","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rg77632/TLE/CP-31/800/integerGame.cpp","group":"local","local":true}
